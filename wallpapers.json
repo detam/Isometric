@@ -2,19 +2,29 @@
   "wallpapers":
   [
     {
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-      "name": "ShotA"
+      "author": "Derrick Tam",
+      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/wallpaper_a.png",
+      "name": "Wallpaper A"
     },
     {
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-      "name": "ShotB"
+      "author": "Derrick Tam",
+      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/wallpaper_b.png",
+      "name": "Wallpaper B"
     },
     {
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-      "name": "ShotC"
+      "author": "Derrick Tam",
+      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/wallpaper_c.png",
+      "name": "Wallpaper V"
+    },
+    {
+      "author": "Derrick Tam",
+      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/wallpaper_d.png",
+      "name": "Wallpaper D"
+    },
+    {
+      "author": "Derrick Tam",
+      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/wallpaper_e.png",
+      "name": "Wallpaper E"
     }
   ]
 }
