@@ -3,28 +3,58 @@
   [
     {
       "author": "Derrick Tam",
-      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/wallpaper_a.png",
-      "name": "Wallpaper A"
+      "url": "https://github.com/detam/Isometric/blob/master/Wallpapers/cube_dark.png",
+      "name": "Cube Dark"
     },
     {
       "author": "Derrick Tam",
-      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/wallpaper_b.png",
-      "name": "Wallpaper B"
+      "url": "https://github.com/detam/Isometric/blob/master/Wallpapers/cube_cool.png",
+      "name": "Cube Cool"
     },
     {
       "author": "Derrick Tam",
-      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/wallpaper_c.png",
-      "name": "Wallpaper V"
+      "url": "https://github.com/detam/Isometric/blob/master/Wallpapers/cube_warm.png",
+      "name": "Cube Warm"
     },
     {
       "author": "Derrick Tam",
-      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/wallpaper_d.png",
-      "name": "Wallpaper D"
+      "url": "https://github.com/detam/Isometric/blob/master/Wallpapers/cube_light.pngg",
+      "name": "Cube Light"
     },
     {
       "author": "Derrick Tam",
-      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/wallpaper_e.png",
-      "name": "Wallpaper E"
+      "url": "https://github.com/detam/Isometric/blob/master/Wallpapers/illusion.png",
+      "name": "Illusion"
+    },
+    {
+      "author": "Derrick Tam",
+      "url": "https://github.com/detam/Isometric/blob/master/Wallpapers/impossible.png",
+      "name": "Impossible"
+    },
+    {
+      "author": "Derrick Tam",
+      "url": "https://github.com/detam/Isometric/blob/master/Wallpapers/knot.png",
+      "name": "Knot"
+    },
+    {
+      "author": "Derrick Tam",
+      "url": "https://github.com/detam/Isometric/blob/master/Wallpapers/perspective.png",
+      "name": "Perspective"
+    },
+    {
+      "author": "Derrick Tam",
+      "url": "https://github.com/detam/Isometric/blob/master/Wallpapers/tower_blue.png",
+      "name": "Tower Blue"
+    },
+    {
+      "author": "Derrick Tam",
+      "url": "https://github.com/detam/Isometric/blob/master/Wallpapers/tower_green.png",
+      "name": "Tower Green"
+    },
+    {
+      "author": "Derrick Tam",
+      "url": "https://github.com/detam/Isometric/blob/master/Wallpapers/tower_red.png",
+      "name": "Tower Red"
     }
   ]
 }
