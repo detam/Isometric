@@ -3,11 +3,6 @@
   [
     {
       "author": "Derrick Tam",
-      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/cube_light.pngg",
-      "name": "Cube Light"
-    },
-    {
-      "author": "Derrick Tam",
       "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/illusion.png",
       "name": "Illusion"
     },
@@ -25,6 +20,11 @@
       "author": "Derrick Tam",
       "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/cube_dark.png",
       "name": "Cube Dark"
+    },
+    {
+      "author": "Derrick Tam",
+      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/cube_light.pngg",
+      "name": "Cube Light"
     },
     {
       "author": "Derrick Tam",
