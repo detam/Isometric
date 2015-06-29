@@ -2,6 +2,14 @@
   "wallpapers":
   [
     {
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+      "name": "ShotA"
+      "author": "Derrick Tam",
+      "url": "https://raw.githubusercontent.com/detam/Isometric/master/Wallpapers/wallpaper_a.png",
+      "name": "Wallpaper A"
+     },
+     {
       "author": "Derrick Tam",
       "url": "https://raw.githubusercontent.com/detam/Isometric/blob/master/Wallpapers/cube_dark.png",
       "name": "Cube Dark"
